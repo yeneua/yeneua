@@ -17,5 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           base: ""
+          scopes:
+            - private_access
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
