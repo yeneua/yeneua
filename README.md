@@ -1,13 +1,12 @@
-
-
-<h2>Hi I'm Yena Kim</h2>
-a frontend developer<br/><br/>
-
+<h3>About Me</h3>
 <ul>
-  <li>Email : yeneua.dev@gmail.com</li>
-  <li>Blog : <a href="https://yeneua.tistory.com" >yeneua.tistory.com</a></li>
+<li>Hi I'm <strong>Yena Kim</strong></li>
+<li>I'm a <strong>frontend</strong> developer</li>
+<li>I'm currently studying React, Typescript</li>
 </ul>
 
+[![Tistory Badge](https://img.shields.io/badge/Blog-232326?style=flat&logo=devbox&logoColor=white)](https://yeneua.tistory.com/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:yeneua.dev@gmail.com) 
 
 ![Metrics](/github-metrics.svg)
 <br>
@@ -22,6 +21,7 @@ a frontend developer<br/><br/>
 <img src="https://img.shields.io/badge/css-0070BA?style=flat-square&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 
@@ -29,6 +29,11 @@ a frontend developer<br/><br/>
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
+<p><strong>CI/CD & Deploy</strong><p>
+<img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/render-000000?style=flat-square&logo=render&logoColor=white">
+  
 <p><strong>Collaboration</strong><p>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
