@@ -80,4 +80,5 @@
 - 📌 <a href="https://github.com/yeneua/TIL" >TIL</a><br>
 - 🔗 <a href="https://yeneua.tistory.com/27" >[JavaScript] 변수란? (변수 선언 | 호이스팅 | 값 재할당)</a><br>
 - 🔗 <a href="https://github.com/yeneua/TIL/blob/main/cs/browser/rendering.md">[cs/browser] 브라우저 렌더링 과정</a><br>
-- 🔗 <a href="https://yeneua.tistory.com/29">[React] console.log()가 두 번씩 찍히는 이유(Strict Mode)</a>
+- 🔗 <a href="https://yeneua.tistory.com/29">[React] console.log()가 두 번씩 찍히는 이유(Strict Mode)</a><br>
+- 🔗 <a href="https://github.com/yeneua/TIL/blob/main/cs/auth/jwt.md">[cs/auth] JWT란? (refresh Token 인증 과정)</a> 
