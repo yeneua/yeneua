@@ -40,7 +40,9 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-  
+
+<br>
+<h3>Projects</h3>
 <br>
 <div align= "left">
     <h3>Education</h3>
@@ -75,7 +77,7 @@
         </tbody>
     </table>
 </div>
-
+<br>
 <h3>Posts</h3>
 - 📌 <a href="https://github.com/yeneua/TIL" >TIL</a><br>
 - 🔗 <a href="https://github.com/yeneua/TIL/blob/main/cs/browser/rendering.md">[cs/browser] 브라우저 렌더링 과정</a><br>
