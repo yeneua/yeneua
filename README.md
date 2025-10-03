@@ -43,6 +43,8 @@
 
 <br>
 <h3>Projects</h3>
+<p>예나, 지금</p>
+<p>Watch Out(워치아웃)</p>
 <br>
 <div align= "left">
     <h3>Education</h3>
