@@ -63,7 +63,7 @@
                     <a href=https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp target="_blank">SSAFY</a> 13기 입과
                 </td>
                 <td>2025.01.07 ~</td>
-                <td></td>
+                <td>- 특화 프로젝트 우수상</td>
             </tr>
             <tr>
                 <td>동아대학교 경영정보학과 졸업</td>
