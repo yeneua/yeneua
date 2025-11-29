@@ -45,7 +45,7 @@
 <h3>Projects</h3>
 <p>📸 <a href="https://github.com/Yena-Now">예나, 지금 (Yena, Now)</a> : <b>실시간 화상 서비스</b>를 통해 사진과 영상을 촬영할 수 있는 온라인 포토부스 서비스</p>
 <p>⛑️ <a href="https://github.com/WatchOut-Construct/watchout">Watch Out (워치 아웃)</a> : AI 영상분석으로 <b>안전장비 착용 여부와 위험 상황을 실시간 감지</b>하는 스마트 안전관제 시스템</p>
-<p>🧠 <a href="#">Second Brain</a> : LLM과 지식 그래프를 활용한 <b>개인지식관리(PKM)</b> 서비스</p>
+<p>🧠 <a href="https://github.com/Yu-Noh-KimLeePark/Second-Brain">Second Brain</a> : LLM과 지식 그래프를 활용한 <b>개인지식관리(PKM)</b> 서비스</p>
 <br>
 <div align= "left">
     <h3>Education</h3>
