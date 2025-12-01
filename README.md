@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:yeneua.dev@gmail.com) 
 
 ![Metrics](/github-metrics.svg)
-<br>
+
 ---
 
 <h3>Skills</h3>
