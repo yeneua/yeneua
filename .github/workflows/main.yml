@@ -3,7 +3,7 @@ name: Update Profile & Metrics
 on:
   schedule:
     - cron: '0 0 * * *' # 매일 0시에 실행
-  workflow_dispatch: # 수동으로도 실행 가능
+  workflow_dispatch: # 수동 실행 가능
   push:
     branches: ['master', 'main']
 
@@ -11,28 +11,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 리드미 수정을 위해 쓰기 권한 허용
+      contents: write
 
     steps:
-      # 1. 레포지토리 코드 가져오기
+      # 1. 코드 체크아웃
       - uses: actions/checkout@v4
 
-      # 2. Node.js 설정
+      # 2. Node.js 환경 설정
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # 3. 의존성 설치 (rss-parser)
+      # 3. 의존성 설치
       - name: Install dependencies
         run: |
           npm ci
           npm install rss-parser
 
-      # 4. 티스토리 RSS 읽어서 README.md 수정 (index.js 실행)
+      # 4. 블로그 포스트 업데이트 (index.js 실행)
       - name: Update README with Tistory RSS
-        run: npm start
+        run: node index.js
 
-      # 5. 변경된 README.md 커밋 및 푸시
+      # 5. 변경사항이 있으면 커밋 및 푸시
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -41,7 +41,7 @@ jobs:
           git commit -m "docs: update latest blog posts" || echo "No changes to commit"
           git push
 
-      # 6. 기존에 사용하던 Metrics 업데이트 (하단에 배치)
+      # 6. GitHub Metrics 업데이트 (그래프 표시)
       - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
